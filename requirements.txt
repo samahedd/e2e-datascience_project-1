@@ -1,0 +1,14 @@
+mlflow              # For managing and tracking machine learning experiments
+notebook            # Jupyter notebooks for interactive code and visualization
+pandas              # Data manipulation and analysis using dataframes
+numpy               # Numerical computations with support for arrays and matrices
+scikit-learn        # Machine learning library for modeling and evaluation
+matplotlib          # Plotting and data visualization library
+python-box          # Access dict items as attributes (dot notation)
+pyYAML              # YAML file parsing and serialization
+tqdm                # Progress bars for loops and operations
+ensure              # Runtime type checking and assertions
+joblib              # Efficient serialization and parallel computing
+types-pyYAML        # Type hints/stubs for pyYAML (useful for static typing)
+Flask               # Lightweight web framework for APIs and web apps
+Flask-cors          # Handle Cross-Origin Resource Sharing (CORS) in Flask
