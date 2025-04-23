@@ -25,9 +25,7 @@ list_of_files=[
     "Dockerfile" , 
     "setup.py", ## to deploy the entire project as a package
     "research/research.ipynb",
-    "templates/index.html", # because we are using flask
-    "app.py"
-
+    "templates/index.html" # because we are using flask
 ]
 
 for file_path in list_of_files:
