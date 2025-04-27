@@ -1,6 +1,6 @@
 from src.datascience_project_1.constants import *
 from src.datascience_project_1.utils.common import read_yaml , create_directories
-from src.datascience_project_1.entity.config_entity import DataIngestionconfig
+from src.datascience_project_1.entity.config_entity import (DataIngestionconfig)
 # this is the first step in data ingestion
 class ConfigurationManager:
     def __init__(self,
