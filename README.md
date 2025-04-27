@@ -3,7 +3,7 @@
 ### Workflows--ML Pipeline
 
 1. Data Ingestion : done with the commit "Refactor data ingestion step from Jupyter notebook to modular programming"
-2. Data Validation
+2. Data Validation : done with the commit "Refactor data validation step from Jupyter notebook to modular programming"
 3. Data Transformation-- Feature Engineering,Data Preprocessing
 4. Model Trainer
 5. Model Evaluation- MLFLOW,Dagshub
