@@ -14,3 +14,11 @@ class DataValidationConfig:
     unzip_data_dir: Path
     STATUS_FILE: str ## str not path because we will use this value to create the file and write to it True or False later
     all_schema: dir ## Contains all schemas from schema.yaml
+  
+
+@dataclass
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+
+    
