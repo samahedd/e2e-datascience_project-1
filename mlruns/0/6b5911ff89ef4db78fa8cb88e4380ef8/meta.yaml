@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samaheddaoudi/E2E-datasciene_project-18/e2e-datascience_project-1/mlruns/0/6b5911ff89ef4db78fa8cb88e4380ef8/artifacts
+end_time: 1746286653635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b5911ff89ef4db78fa8cb88e4380ef8
+run_name: legendary-ram-911
+run_uuid: 6b5911ff89ef4db78fa8cb88e4380ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746286648981
+status: 3
+tags: []
+user_id: samaheddaoudi

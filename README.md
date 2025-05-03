@@ -5,8 +5,8 @@
 1. Data Ingestion : done with the commit "Refactor data ingestion step from Jupyter notebook to modular programming"
 2. Data Validation : done with the commit "Refactor data validation step from Jupyter notebook to modular programming"
 3. Data Transformation-- Feature Engineering,Data Preprocessing : done with the commit "Refactor data transformation step from Jupyter notebook to modular programming"
-4. Model Trainer
-5. Model Evaluation- MLFLOW,Dagshub
+4. Model Trainer : done with commit "try the model trainer on Jupyter Notebook and Refactor model trainer step from Jupyter notebook to modular programming"
+5. Model Evaluation- MLFLOW,Dagshub 
 
 ## Workflows
 

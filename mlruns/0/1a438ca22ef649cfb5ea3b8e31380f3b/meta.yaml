@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samaheddaoudi/E2E-datasciene_project-18/e2e-datascience_project-1/mlruns/0/1a438ca22ef649cfb5ea3b8e31380f3b/artifacts
+end_time: 1746286533452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a438ca22ef649cfb5ea3b8e31380f3b
+run_name: able-trout-256
+run_uuid: 1a438ca22ef649cfb5ea3b8e31380f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746286529426
+status: 3
+tags: []
+user_id: samaheddaoudi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samaheddaoudi/E2E-datasciene_project-18/e2e-datascience_project-1/mlruns/0/f4f45afeb091496c921dbb1632b1def1/artifacts
+end_time: 1746286473639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4f45afeb091496c921dbb1632b1def1
+run_name: calm-fowl-331
+run_uuid: f4f45afeb091496c921dbb1632b1def1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746286469368
+status: 3
+tags: []
+user_id: samaheddaoudi
